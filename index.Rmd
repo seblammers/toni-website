@@ -9,7 +9,8 @@ links:
   - label: Email
     url: "mailto:email@email.com"
 output:
-  postcards::jolla
+  postcards::jolla:
+    css: "custom.css"
 ---
  
 I am a neuroscientist living in the Cologne-Bonn Area. Currently I work on the subjective perception of error flash lag confidence in insects. I love talking about cheese, laundry, and hiking equipment.
@@ -17,3 +18,7 @@ I am a neuroscientist living in the Cologne-Bonn Area. Currently I work on the s
 ## I love equations
 
 $e = mc^2$
+
+
+## Changes
+I made them.
